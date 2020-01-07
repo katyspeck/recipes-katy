@@ -3,3 +3,6 @@ tomatoes
 kidney beans
 pinto beans
 chili powder
+garlic powder
+hot sauce
+onions
